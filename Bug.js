@@ -1,0 +1,1 @@
+This error occurs when you try to access a property of a component's state before the component has mounted. This commonly happens when using asynchronous functions or when making network requests to fetch data. The component's state might not yet have been initialized.
